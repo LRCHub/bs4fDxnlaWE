@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Hey!Brother!",
+  "base_artist": "back number",
+  "createdAt": "2025-12-16T17:42:25.016135Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Aloe Blacc",
+      "has_synced": false,
+      "path": "select/01_Hey_Brother_Aloe_Blacc.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/02_Hey_Brother_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hey Brother (Feat. Dan Tyminski)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/03_Hey_Brother_(Feat._Dan_Tyminski)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Avicii (ft. Dan Tyminsky)",
+      "has_synced": true,
+      "path": "select/04_Hey_Brother_Avicii_(ft._Dan_Tyminsky).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hey Brother - Avicii By Avicii",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/05_Hey_Brother_-_Avicii_By_Avicii_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hey Brother (Extended Version)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/06_Hey_Brother_(Extended_Version)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hey Brother (Syn Cole Remix)",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/07_Hey_Brother_(Syn_Cole_Remix)_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hey Brother / You Make Me / I Could Be the One",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/08_Hey_Brother___You_Make_Me___I_Could_Be_the_One_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hey, Brother",
+      "artist": "Robben Ford",
+      "has_synced": false,
+      "path": "select/09_Hey,_Brother_Robben_Ford.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/10_Hey_Brother_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hey Brother (Live)",
+      "artist": "Billy Preston",
+      "has_synced": false,
+      "path": "select/11_Hey_Brother_(Live)_Billy_Preston.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/12_Hey_Brother_Avicii.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hey Brother",
+      "artist": "Avicii",
+      "has_synced": true,
+      "path": "select/13_Hey_Brother_Avicii.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hey!Brother!",
+      "artist": "back number",
+      "has_synced": false,
+      "path": "select/pl_01_Hey!Brother!_back_number.txt"
+    }
+  ]
+}
